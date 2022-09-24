@@ -1,0 +1,59 @@
+div.one {
+  color: chartreuse;
+}
+span {
+  color: darksalmon;
+}
+li.one {
+  color: blue;
+}
+.text {
+  color: darkblue;
+}
+#tul {
+  color: rgb(84, 27, 240);
+}
+div.utochnenie1 {
+  color: darkgoldenrod;
+  font-size: 800;
+}
+.utochnenie1 {
+  color: fuchsia;
+}
+div.utochnenie2 {
+  color: chartreuse;
+}
+div p {
+  color: cornflowerblue;
+}
+.content {
+  color: forestgreen;
+}
+.content span {
+  color: blue;
+}
+#dob {
+  color: chartreuse;
+}
+.qwer {
+  color: cornflowerblue;
+}
+.qwer .qwerin,
+.qwerinto {
+  color: blue;
+}
+footer,
+.content_one,
+.content_two {
+  color: rgb(0, 255, 102);
+}
+.fonts {
+  font-size: 30px;
+  border: 1px;
+  color: blue;
+}
+.italic {
+  font-style: italic;
+  font-weight: 700;
+  text-align: center;
+}
